@@ -1,0 +1,3 @@
+[submodule "Padre"]
+	path = Padre
+	url = https://github.com/SushiP/Padre.git
